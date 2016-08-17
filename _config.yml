@@ -1,0 +1,14 @@
+layout_spectrum: 0.004581045359373093
+typography_spectrum: 0.7164575525093824
+color:
+  brandStrength: 0.5212473364081234
+  lightness: 0.15852719894610345
+  saturation: 0.3231924991123378
+  rhythmicContrast: 0.9997877476271242
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Refocus
