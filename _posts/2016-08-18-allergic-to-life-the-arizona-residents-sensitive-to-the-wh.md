@@ -63,8 +63,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.theguardian.com/society/2016/jul/11/snowflake-arizona-environmental-illness
 title: 'Allergic to life: the Arizona residents ''sensitive to the whole world'''
-datePublished: '2016-08-18T18:42:48.396Z'
-dateModified: '2016-08-18T18:36:19.322Z'
+datePublished: '2016-08-18T18:53:33.601Z'
+dateModified: '2016-08-18T18:36:29.713Z'
 via: {}
 starred: false
 sourcePath: >-
